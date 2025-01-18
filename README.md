@@ -116,3 +116,7 @@
 - 우산 분실 및 구매 비용 절감
 - 예기치 못한 날씨 변화 대응
 - 책임감과 신뢰 문화 형성
+
+---
+
+- 더 자세한 내용 : [바로우산 노션](https://www.notion.so/choxaeonian/2024-BSSM-SW-14ecefb255af8055bcabf05c47dd3706)
