@@ -119,4 +119,4 @@
 
 ---
 
-- 더 자세한 내용 : [바로우산 노션](https://www.notion.so/choxaeonian/2024-BSSM-SW-14ecefb255af8055bcabf05c47dd3706)
+- 더 자세한 내용 : [바로우산 노션]([https://www.notion.so/choxaeonian/2024-BSSM-SW-14ecefb255af8055bcabf05c47dd3706](https://choxaeonian.notion.site/2024-BSSM-SW-1ebcefb255af8157b7b5c295417b9aa3))
